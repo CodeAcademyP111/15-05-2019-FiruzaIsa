@@ -1,1 +1,2 @@
 Ela !!! Bir dene sidebar clasina position fixed vermelisen ki, body scroll olunanda sidebar solda qalsin
+transform: translate(-300px, 0px); bundan istifade etmek bu halda daha yaxshidir.
